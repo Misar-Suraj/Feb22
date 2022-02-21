@@ -6,5 +6,7 @@ public class Prog1
    {
 	   System.out.println("Hey");
 	   System.out.println("Hey");
+	   System.out.println("Hey");
+	   
    }
 }
